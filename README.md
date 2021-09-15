@@ -8,3 +8,9 @@ O ComidaNoPrato é o software que permite administrar o estoque de um ou vários
 ### [Diagrama US](https://lucid.app/lucidchart/ccc39aba-7b88-4c3d-b891-a1369ee16777/edit?viewport_loc=-11%2C-89%2C2219%2C1065%2C0_0&shared=true)
 
 ## Documentação Parte 2
+
+### [Diagrama de Classes Conceituais  ](https://lucid.app/lucidchart/invitations/accept/inv_ae77a57a-6c62-4d68-92ec-1a17198fc0b9?viewport_loc=-106%2C70%2C3048%2C1361%2C0_0)
+
+### [Diagramas Interação/Sequência  ](https://lucid.app/lucidchart/invitations/accept/inv_77bdde9f-f6f5-4e44-8543-868b4060167d?viewport_loc=2122%2C309%2C2943%2C1314%2C0_0)
+
+### [Diagrama de Atividades  ](https://lucid.app/lucidchart/invitations/accept/inv_a66ed1ce-251e-49a7-98a5-f8287d61b4f1)
